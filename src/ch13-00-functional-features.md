@@ -32,8 +32,8 @@ Mais especificamente, abordaremos:
 * The performance of these two features (Spoiler alert: they’re faster than you
   might think!)
 
-* *Closures*, Um construtor estilo função no qual você pode guardar em uma
-variável;
+* *Closures*, Uma construção semelhante a uma função no qual você pode guardar
+em uma variável;
 * *Iterators*, Uma maneira de processar uma séries de elementos;
 * Como usar esses 2 recursos para melhorar o projeto "I/O" do Capítulo 12;
 * A performance destes dois recursos (Alerta de Spoiler: Eles são mais rápidos
@@ -46,5 +46,6 @@ code, so we’ll devote this entire chapter to them.
 
 Outros recursos da linguagem Rust, como "pattern matching" e "enums", os quais
 são abordados em outros capítulos, são também influenciados pelo estilo
-funcional. Maestria em "closures" e "iterators" é um aspecto importante para
-escrita de Rust de forma idiomática e rápido.
+funcional. Domínio sobre "closures" e "iterators" são uma parte importante da
+escrita idiomática e rápida de código Rust, assim dedicaremos inteiramente este
+capítulo a eles.
